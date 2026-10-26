@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1525897257"/>
-  <Params Value="-MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq &quot;-FiC:\Users\riccardo.bettinelli.PIAMARTA\Documents\conversione 2\conversione\while\salvadadadagno\lib\x86_64-win64&quot; &quot;-FuC:\Users\riccardo.bettinelli.PIAMARTA\Documents\conversione 2\conversione\while\salvadadadagno\&quot; -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\freetype\lib\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 &quot;-FUC:\Users\riccardo.bettinelli.PIAMARTA\Documents\conversione 2\conversione\while\salvadadadagno\lib\x86_64-win64\&quot; &quot;-FEC:\Users\riccardo.bettinelli.PIAMARTA\Documents\conversione 2\conversione\while\salvadadadagno\&quot; &quot;-oC:\Users\riccardo.bettinelli.PIAMARTA\Documents\conversione 2\conversione\while\salvadadadagno\project1.exe&quot; -dLCL -dLCLwin32 project1.lpr"/>
-</CONFIG>
